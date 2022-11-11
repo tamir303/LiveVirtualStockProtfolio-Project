@@ -1,0 +1,46 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+    -fx-background-image: url("https://static.vecteezy.com/system/resources/previews/001/236/702/non_2x/diagonal-black-background-with-golden-lines-vector.jpg");
+  	-fx-background-size: 100.0% 100.0%;
+}
+.label{
+		-fx-font-size: 12.0;
+		-fx-font-family: "Lucida Console";
+		-fx-text-fill: "orange";
+		-fx-alignment:center;
+}
+#BbuyStock{
+		-fx-background-color: "green";
+		-fx-text-fill: "white";
+}
+#BsellStock{
+		-fx-background-color: "red";
+		-fx-text-fill: "white";	
+}
+#addButton{
+			-fx-background-color: "white";
+		-fx-text-fill: "black";	
+}
+#removeButton{
+			-fx-background-color: "white";
+		-fx-text-fill: "black";	
+}
+#stockmarket{
+		-fx-font-size: 60.0;
+		-fx-font-family: "David";		
+		
+}
+#portfolioLabel{
+			-fx-font-family: "David";		
+			-fx-font-size: 36.0;
+}
+#lCurrentPrice{
+			-fx-font-size: 24.0;
+}
+#myPortfolio{
+	    -fx-font-size:15.0;
+	    -fx-font-weight: bold;
+}
+#myStocks{
+		 -fx-font-weight: bold;
+}
